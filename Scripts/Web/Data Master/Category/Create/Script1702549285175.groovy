@@ -17,14 +17,19 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.callTestCase(findTestCase('Web/Login/TC0101'), [:], FailureHandling.STOP_ON_FAILURE)
 
-WebUI.navigateToUrl('https://erp-dev.goorita.com/login')
+WebUI.click(findTestObject('Object Repository/Data Master/Category/Create/Page_GooritaERP/span_Data Master_menu-arrow'))
 
-WebUI.setText(findTestObject('Object Repository/Login/Page_GooritaERP/input_Email_email'), 'superadmin@gmail.com')
+WebUI.click(findTestObject('Object Repository/Data Master/Category/Create/Page_GooritaERP/span_Category'))
 
-'superadmin123'
-WebUI.setEncryptedText(findTestObject('Object Repository/Login/Page_GooritaERP/input_Kata Sandi_password'), '7326p5kcqg1/R39ULeW9xQ==')
+WebUI.navigateToUrl('https://erp-dev.goorita.com/categorys')
 
-WebUI.click(findTestObject('Object Repository/Login/Page_GooritaERP/button_Masuk'))
+WebUI.click(findTestObject('Object Repository/Data Master/Category/Create/Page_GooritaERP/button_Create'))
+
+WebUI.setText(findTestObject('Object Repository/Data Master/Category/Create/Page_GooritaERP/input_Name_name'), 'Meat')
+
+WebUI.click(findTestObject('Object Repository/Data Master/Category/Create/Page_GooritaERP/button_Save changes'))
+
+WebUI.click(findTestObject('Object Repository/Data Master/Category/Create/Page_GooritaERP/button_OK'))
 

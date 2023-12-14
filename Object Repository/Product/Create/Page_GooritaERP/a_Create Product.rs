@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Product</name>
+   <tag></tag>
+   <elementGuidId>495d61b5-8ee3-4fa5-a1d6-27cf60ce2141</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary.fw-bold.fs-8.fs-lg-base</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='kt_app_content_container']/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>3f0feaf0-58c1-4650-ad6e-3ad46f174cd1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://erp-dev.goorita.com/products/create</value>
+      <webElementGuid>328012e6-9c8d-4d0c-b221-ea03c57ad1d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary fw-bold fs-8 fs-lg-base</value>
+      <webElementGuid>4aca5c12-7e96-4e98-a257-637dfa6739fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Product</value>
+      <webElementGuid>93b09963-afca-43e3-9b3f-e6f8d6bb10a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kt_app_content_container&quot;)/div[@class=&quot;card mb-3&quot;]/div[@class=&quot;card-rounded d-flex flex-stack flex-wrap p-5&quot;]/a[@class=&quot;btn btn-primary fw-bold fs-8 fs-lg-base&quot;]</value>
+      <webElementGuid>21c0a6cc-859f-4ecb-9aa5-e2edb44a4565</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kt_app_content_container']/div/div/a</value>
+      <webElementGuid>cef0a4c3-d162-4594-b4f2-60fdfa026af9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Create Product')]</value>
+      <webElementGuid>18b67cf8-8b3a-4dd6-9522-eb549ece62aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[1]/preceding::a[1]</value>
+      <webElementGuid>dd24510c-309c-4187-999e-7b7c4011baf8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Filter'])[2]/preceding::a[2]</value>
+      <webElementGuid>cf8450f2-b5b7-4cae-8ef5-916aac62a0de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Create Product']/parent::*</value>
+      <webElementGuid>2374c647-2654-4ab7-89c7-1e201509e982</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://erp-dev.goorita.com/products/create')]</value>
+      <webElementGuid>db1a6409-cb78-40eb-aaca-4d9ec7ad0297</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div[2]/div/div/div/a</value>
+      <webElementGuid>3d328375-c021-4722-b144-28db9bfe2444</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://erp-dev.goorita.com/products/create' and (text() = 'Create Product' or . = 'Create Product')]</value>
+      <webElementGuid>9d799252-11ee-4b05-8f76-9ce410c12e84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
