@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Data Master_menu-arrow</name>
+   <tag></tag>
+   <elementGuidId>707cf83d-4477-4429-83db-635d73cb3810</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='#kt_app_sidebar_menu']/div[6]/span/span[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>936ae682-b3cc-483e-bd7a-f426c7c09619</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-arrow</value>
+      <webElementGuid>a1c6e222-1c16-46ab-b453-e59ad623aa88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;#kt_app_sidebar_menu&quot;)/div[@class=&quot;menu-item menu-accordion&quot;]/span[@class=&quot;menu-link&quot;]/span[@class=&quot;menu-arrow&quot;]</value>
+      <webElementGuid>249fe612-b4c2-48cd-a49b-b1fbc643c0a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='#kt_app_sidebar_menu']/div[6]/span/span[3]</value>
+      <webElementGuid>454f258a-ebee-47db-be52-3e6a1eedeb85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/span/span[3]</value>
+      <webElementGuid>a5f61b94-e0a2-4e28-96a4-0a19235523b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

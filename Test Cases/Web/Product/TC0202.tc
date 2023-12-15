@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>create product with variant</description>
+   <name>TC0202</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>f24abd53-65ee-482d-a971-b8e40ecfab23</testCaseGuid>
+</TestCaseEntity>

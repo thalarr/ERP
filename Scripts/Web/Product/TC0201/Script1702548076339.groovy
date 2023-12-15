@@ -33,9 +33,11 @@ WebUI.setText(findTestObject('Object Repository/Product/Create/Page_GooritaERP/i
 
 WebUI.click(findTestObject('Object Repository/Product/Create/Page_GooritaERP/span_Select Category'))
 
-WebUI.click(findTestObject('Object Repository/Product/Create/Page_GooritaERP/li_Select Category'))
+WebUI.click(findTestObject('Product/Create/Page_GooritaERP/li_Meat'))
 
 WebUI.click(findTestObject('Object Repository/Product/Create/Page_GooritaERP/span_Select Brand'))
+
+WebUI.click(findTestObject('Product/Create/Page_GooritaERP/li_Rasanesia'))
 
 WebUI.setText(findTestObject('Object Repository/Product/Create/Page_GooritaERP/textarea_Description_description'), 'Ini adalah deskripsinya untuk produk daging')
 

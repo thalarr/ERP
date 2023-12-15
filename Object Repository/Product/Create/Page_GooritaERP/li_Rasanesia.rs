@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Rasanesia</name>
+   <tag></tag>
+   <elementGuidId>db8138f6-fc86-4f81-945c-45bb47ca1a95</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id = 'select2-brand-result-dmlj-97b41e76-5279-4531-bb67-20ea0df3d378' and (text() = ' Rasanesia ' or . = ' Rasanesia ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = ' Rasanesia ' or . = ' Rasanesia ')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>50db3edf-39f0-428a-bc7c-04d403b2f385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select2-results__option select2-results__option--selectable select2-results__option--highlighted</value>
+      <webElementGuid>ffa1cae2-9ed2-47c0-9e90-fe6c1a3baf16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>select2-brand-result-dmlj-97b41e76-5279-4531-bb67-20ea0df3d378</value>
+      <webElementGuid>7c3ace5a-6a6d-42c3-8083-abfa58fd1e8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>fbb5b5b0-f93e-4906-89dd-d78048ebcbf8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-select2-id</name>
+      <type>Main</type>
+      <value>select2-data-select2-brand-result-dmlj-97b41e76-5279-4531-bb67-20ea0df3d378</value>
+      <webElementGuid>1d85b112-5d5b-4047-8795-5a2d2b279612</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>619c7ebf-4b98-404b-84a7-ee31e17d4a38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Rasanesia </value>
+      <webElementGuid>2b92688a-08d7-43df-a772-9c5849727b6c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;select2-brand-result-dmlj-97b41e76-5279-4531-bb67-20ea0df3d378&quot;)</value>
+      <webElementGuid>4b4d408e-5ede-4be1-95ef-4888957554a6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[@id = 'select2-brand-result-dmlj-97b41e76-5279-4531-bb67-20ea0df3d378' and (text() = ' Rasanesia ' or . = ' Rasanesia ')]</value>
+      <webElementGuid>c274b2b6-2638-4311-b621-2a4b3744702c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
